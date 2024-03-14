@@ -136,9 +136,9 @@ WAS단을 프리젠테이션 로직와 비즈니스 로직으로 구분하여 �
 
 1. 기능을 분리하여 서버의 부하방지
 
-2. 물리적으로 분리하여 보안강화
+2. 물리적으로 분리하여 보안강화([Reverse Proxy](https://aday7.tistory.com/entry/%EB%A6%AC%EB%B2%84%EC%8A%A4-%ED%94%84%EB%A1%9D%EC%8B%9CReverse-Proxy-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%ED%95%84%EC%9A%94%EC%84%B1-%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%EC%86%94%EB%A3%A8%EC%85%98%EA%B9%8C%EC%A7%80) 역할 수행)
 
-3. 여러대의 WAS를 연결 가능 ([로드밸런싱](https://easymedia.net/Culture/EasyStory/index.asp?no=174&mode=view&IDX=1173&p=1)의 역할 및 fail over, fail back 처리에 유리)
+3. 여러대의 WAS를 연결 가능 ([로드밸런싱](https://www.smileshark.kr/post/what-is-a-load-balancer-a-comprehensive-guide-to-aws-load-balancer#viewer-21pmp)의 역할 및 fail over, fail back 처리에 유리)
 
 4. 여러 웹어플리케이션을 서비스 가능(java서버, c#서버, php서버 등 하나의 웹서비스를 통해 서비스 가능)
 
@@ -210,3 +210,13 @@ image, html, css, javascript 파일과 같이 컴퓨터에 저장된 파일들
 개발자는 Servlet에 doGet() 메소드를 구현함
 
 <br>
+
+
+
+## 참고
+
+[WEB과 WAS 차이](https://helloworld-88.tistory.com/71)
+<br>
+[웹서버와 WAS](https://story.pxd.co.kr/1647)
+<br>
+[[Web] Web Server와 WAS의 차이와 웹 서비스 구조](https://gmlwjd9405.github.io/2018/10/27/webserver-vs-was.html)
