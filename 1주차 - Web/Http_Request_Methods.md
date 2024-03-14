@@ -18,7 +18,7 @@ Method 종류
 
 ---
 
-![Untitled](res/httpMethod.png)
+![Untitled](res/httpmethod.png)
 
 ### GET
 
