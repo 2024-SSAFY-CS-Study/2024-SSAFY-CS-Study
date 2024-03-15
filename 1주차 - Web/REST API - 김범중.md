@@ -2,7 +2,7 @@
 
 1. [Rest API?](#rest-api)
    <br>
-   a. [Rest의 구성](#Rest의-구성)
+   a. [Rest의 구성](#rest의-구성)
    <br>
    <br>
 2. [Rest를 구성하는 6가지 스타일](#rest를-구성하는-6가지-스타일---uniform-interface가-가장-중요해보임)
@@ -21,13 +21,12 @@
    <br>
     - [Identification of resources (자원에 대한 식별)](#identification-of-resources-자원에-대한-식별)
     - [Manipulation of resources through representations (표현을 통해 자원을 조작)](#manipulation-of-resources-through-representations-표현을-통해-자원을-조작)
-    - [**Self-descriptive message (자기 서술적 메시지: 메시지는 스스로를 설명해야한다.)
-      **](#self-descriptive-message-자기-서술적-메시지-메시지는-스스로를-설명해야-한다)
+    - [**Self-descriptive message (자기 서술적 메시지: 메시지는 스스로를 설명해야한다.)**](#self-descriptive-message-자기-서술적-메시지-메시지는-스스로를-설명해야-한다)
     - [**HATEOAS(애플리케이션의 상태는 Hyperlink를 이용해 전이되어야 한다.)**](#hateoas애플리케이션의-상태는-hyperlink를-이용해-전이되어야-한다)
       <br>
       <br>
 
-3. [Uniform Interface 사용 이유](#uniform-interface-사용-이유)
+3. [Uniform Interface를 사용하는 이유](#uniform-interface-사용-이유)
 4. [참고](#참고)
 
 <br>
@@ -90,8 +89,7 @@ PATCH: 기존 리소스에 응답을 추가(append)하는 경우에도 PATCH가 
 
 ### 1. client-server
 
-> - 자원(Resource)가 있는 쪽이 Server, 요청하는 쪽이 Client
-    >
+> - 자원(Resource)이 있는 쪽이 Server, 요청하는 쪽이 Client
 
 - Rest Server : API를 제공하고 비즈니스 로직 처리 및 저장을 책임진다.
 
@@ -116,7 +114,6 @@ PATCH: 기존 리소스에 응답을 추가(append)하는 경우에도 PATCH가 
 
 > - 비연결적인 특성.
 > - 연결이 해제되면 서버와 클라이언트는 클라이언트가 이전에 요청한 결과를 잊어버린다.
-    >
 
 - 클라이언트가 이전 요청과 같은 데이터를 원해도, 다시 서버에 연결해 동일한 요청을 시도해야한다.
 
