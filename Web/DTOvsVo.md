@@ -67,3 +67,9 @@
     - DTO는 속성값 세팅 외의 로직을 가질 수 없음
     - VO는 자가 유효성 검사 등 속성값 세팅 외의 로직을 가질 수 있다
 
+<br/><br/>
+# 참고자료
+
+1. https://www.youtube.com/watch?v=z5fUkck_RZM&t=129s
+2. https://www.youtube.com/watch?v=EeJnNaiMy3U
+3. https://hudi.blog/value-object/
