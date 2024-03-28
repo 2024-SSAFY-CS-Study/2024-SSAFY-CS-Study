@@ -36,11 +36,11 @@ public class Main {
 ```
 
 위와 같은 코드 실행 시 다음과 같이 각각의 영역에 할당 된다.
-<img src = "/src/stack&heap.jpg">
+<img src = "/res/stack&heap.jpg">
 
 이후에 main method가 끝나게 되면 stack 영역의 메모리는 할당이 해제되고, Heap 영역의 객체 타입 데이터만 남게 된다.
  이를 **Unreachable Object**라 불리며, Garbage Collector의 대상이 된다.
-<img src = "/src/unreachableData.jpg">
+<img src = "/res/unreachableData.jpg">
 
 ## JVM의 Heap
 
@@ -50,7 +50,7 @@ JVM의 Heap 영역은 처음 설계될 때 2가지 전재로 설계되었다.
 
 이에 따라 객체의 생존기간에 따라 물리적인 Heap 영역을 **Young, Old** 총 2가지 영역으로 나누어 설계했다.
 
-<img src = "/src/heap.jpg">
+<img src = "/res/heap.jpg">
 
 - **Young Generation**
     1) 새롭게 생성된 객체가 할당되는 곳
@@ -63,7 +63,7 @@ JVM의 Heap 영역은 처음 설계될 때 2가지 전재로 설계되었다.
     => Young 영역의 객체들은 수명이 짧기에 큰 공간 필요로 x
     3) 해당 영역에 대한 GC를 Major GC 혹은 Full GC라고 부름
 
-<img src = "/src/card.jpg">
+<img src = "/res/card.jpg">
 
 - **Card Table**
 
@@ -91,7 +91,7 @@ Young, Old 영역의 공통적인 단계에는 **Stop The World**와 **Mark and 
 <hr>
 
 ### Minor GC
-<img src ="/src/minor.jpg">
+<img src ="/res/minor.jpg">
 <br>
 Young 영역은 1개의 Eden과 2개의 Survivor영역 총 3구역으로 나뉜다
 
@@ -140,7 +140,7 @@ Old 영역은 Young 영역보다 크며 Young 영역을 참조할 수도 있다.
 - **Mark Sweep Compact** 알고리즘 이용
 - 기존 Mark & Sweep에 Compact 작업 추가
 - Compact 작업은 힙의 가장 앞부분부터 채워서 객체가 존재하는 부분과 존재하지 않는 부분으로 나누는 것
-<img src = "/src/msc.PNG">
+<img src = "/res/msc.PNG">
 ❗ 서버의 CPU 코어가 1개 일 때 사용하기 위해 개발되었으며, 모든 GC 일을 처리하기 위해 1개의 쓰레드만을 이용한다.
 
 <hr>
@@ -153,7 +153,7 @@ Old 영역은 Young 영역보다 크며 Young 영역을 참조할 수도 있다.
 #### Old GC
 - Parallel Old GC에서는 Mark Sweep Compact가 아닌 Mark Summary Compaction 사용
 - Summary 단계에서는 앞서 GC를 수행한 영역에 대해서 별도로 살아있는 객체를 식별
-<img src = "/src/pogc.jpg">
+<img src = "/res/pogc.jpg">
 
 <hr>
 
@@ -178,7 +178,7 @@ Old 영역은 Young 영역보다 크며 Young 영역을 참조할 수도 있다.
 
 -<span style='background-color: #fff5b1'>**Heap을 동일한 크기의 Region으로 나누고, 가비지가 많은 Region에 대해 우선적으로 GC를 수행**</span>
 
-<img src = "/src/g1.jpg">
+<img src = "/res/g1.jpg">
 
 #### Minor GC
 한 지역에 객체를 할당하다가 해당 지역이 꽉 차면 다른 지역에 객체를 할당하고, Minor GC가 실행
