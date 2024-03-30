@@ -35,10 +35,14 @@
 - [Http Status Code](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/Http%20Status%20Code.md)
 - [REST API](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/REST%20API%20-%20%EA%B9%80%EB%B2%94%EC%A4%91.md)
 - [WebServer & WAS](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/WebServer%26WAS-%EC%A0%95%EC%A7%84%EA%B7%9C.md)
+- [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
 - [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/SpringVsServlet.md)
 
+📌 Java
+-
 
-
+- [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM%20Garbage%20Collector.md)
+- [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM_stack%26heap.md)
 
 
 
