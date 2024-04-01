@@ -113,3 +113,9 @@
 #### L7
 - User Request를 바탕으로 함
 - ex) 특정 URL로 접근 시 뒤에 붙이는 것(/category, /search) 혹은 QueryParam과 같이 어플리케이션 요청하는 방법에 따라 어떤 서버가 처리할지 결정해준다.
+
+
+## 참고
+[[10분 테코톡] 🐿 제이미의 Forward Proxy, Reverse Proxy, Load Balancer](https://www.youtube.com/watch?v=YxwYhenZ3BE)
+
+[Proxy Server(프록시 서버)란?](https://velog.io/@jangwonyoon/Proxy-Server%ED%94%84%EB%A1%9D%EC%8B%9C-%EC%84%9C%EB%B2%84%EB%9E%80)
