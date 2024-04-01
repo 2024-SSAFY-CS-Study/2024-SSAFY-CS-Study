@@ -44,5 +44,6 @@
 - [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM%20Garbage%20Collector.md)
 - [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM_stack%26heap.md)
 
-
-
+📌 Network
+-
+- [Forward Proxy, Reverse Proxy, Load Balancer](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/Proxy.md)
