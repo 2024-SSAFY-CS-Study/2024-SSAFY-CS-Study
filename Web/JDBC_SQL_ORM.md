@@ -1,6 +1,6 @@
 # JDBC, SQL Mapper, ORM
 
-## persistence(성속성)
+## persistence(영속성)
 
 - persistence?
   데이터를 생성한 프로그램의 실행이 종료되더라도 사라지지않는 데이터 특성
