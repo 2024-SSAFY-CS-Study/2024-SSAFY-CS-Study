@@ -43,6 +43,8 @@
 
 - [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM%20Garbage%20Collector.md)
 - [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM_stack%26heap.md)
+- [Java version](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/Java_version.md)
+
 
 📌 Network
 -
