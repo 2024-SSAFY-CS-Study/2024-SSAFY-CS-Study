@@ -39,23 +39,24 @@
 
 📌 Java
 
-- [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM%20Garbage%20Collector.md)
-- [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM_stack%26heap.md)
+- [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/JVM%20Garbage%20Collector.md)
+- [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/JVM_stack%26heap.md)
 - [상속과 Composition](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/%EC%83%81%EC%86%8D%EA%B3%BC_Composition.md)
-- [Java version](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/Java_version.md)
+- [Java version](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/Java_version.md)
+- [JDBC SQL ORM](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/JDBC_SQL_ORM.md)
 
 <br/>
 
 📌 Backend
 
-- [DTO vs VO](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/DTOvsVo.md)
-- [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/SpringVsServlet.md)
+- [DTO vs VO](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/DTOvsVo.md)
+- [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/SpringVsServlet.md)
 
 <br/>
 
 📌 Frontend
 
-- [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
+- [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
 
 <br/>
 
