@@ -27,7 +27,6 @@
 
 
 📌 Web
--
 
 - [브라우저 동작 방법](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%20-%20%EA%B9%80%EB%B4%89%EC%83%81.md)
 - [쿠키(Cookie) & 세션(Session)](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/%EC%BF%A0%ED%82%A4%26%EC%84%B8%EC%85%98.md)
@@ -35,17 +34,33 @@
 - [Http Status Code](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/Http%20Status%20Code.md)
 - [REST API](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/REST%20API%20-%20%EA%B9%80%EB%B2%94%EC%A4%91.md)
 - [WebServer & WAS](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/WebServer%26WAS-%EC%A0%95%EC%A7%84%EA%B7%9C.md)
-- [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
-- [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/SpringVsServlet.md)
+
+<br/>
 
 📌 Java
--
 
 - [JVM Garbage Collector](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM%20Garbage%20Collector.md)
 - [JVM Stack&Heap](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/JVM_stack%26heap.md)
+- [상속과 Composition](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/%EC%83%81%EC%86%8D%EA%B3%BC_Composition.md)
 - [Java version](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/Java_version.md)
 
+<br/>
+
+📌 Backend
+
+- [DTO vs VO](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/DTOvsVo.md)
+- [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/SpringVsServlet.md)
+
+<br/>
+
+📌 Frontend
+
+- [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Web/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
+
+<br/>
 
 📌 Network
--
+
 - [Forward Proxy, Reverse Proxy, Load Balancer](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/Proxy.md)
+
+<br/>
