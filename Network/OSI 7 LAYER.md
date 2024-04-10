@@ -137,6 +137,9 @@
 
 # 참고
 [OSI 7 layer](https://github.com/ssafy-tech-concert/ssafy-tech-concert/blob/master/Computer-Science/OSI%207%20layer.md)
+<br>
 [OSI 7 계층 (OSI 7 Layer)](https://backendcode.tistory.com/167)
+<br>
 [TCP/IP 4계층(TCP/IP 4 Layer)](https://hahahoho5915.tistory.com/15)
+<br>
 [[10분 테코톡] 👍 파즈의 OSI 7 Layer](https://www.youtube.com/watch?v=Fl_PSiIwtEo)
