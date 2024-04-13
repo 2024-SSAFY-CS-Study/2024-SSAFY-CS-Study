@@ -57,6 +57,7 @@
 📌 Frontend
 
 - [브라우저의 EventLoop](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Frontend/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98EventLoop.md)
+- [promise](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Frontend/promise.md)
 
 <br/>
 
