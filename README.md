@@ -34,6 +34,8 @@
 - [Http Status Code](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/Http%20Status%20Code.md)
 - [REST API](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/REST%20API%20-%20%EA%B9%80%EB%B2%94%EC%A4%91.md)
 - [WebServer & WAS](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/WebServer%26WAS-%EC%A0%95%EC%A7%84%EA%B7%9C.md)
+- [웹 요청응답 과정](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/1%EC%A3%BC%EC%B0%A8%20-%20Web/%EC%9A%94%EC%B2%AD%20%EC%9D%91%EB%8B%B5%20%EA%B3%BC%EC%A0%95.md)
+
 
 <br/>
 
@@ -50,7 +52,12 @@
 📌 Backend
 
 - [DTO vs VO](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/DTOvsVo.md)
+- [IoC & DI](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/ca8d2d351f463c2b01df871d3e2cce7a0f34a6ba/Backend/IoC%26DI.md)
 - [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/SpringVsServlet.md)
+- [Spring Bean](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/SpringBean.md)
+- [인증과 인가](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/%EC%9D%B8%EC%A6%9D%EA%B3%BC%EC%9D%B8%EA%B0%80.md)
+
+
 
 <br/>
 
