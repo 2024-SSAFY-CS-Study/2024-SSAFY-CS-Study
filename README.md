@@ -56,7 +56,7 @@
 - [Servlet&Spring](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Java/SpringVsServlet.md)
 - [Spring Bean](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/SpringBean.md)
 - [인증과 인가](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/%EC%9D%B8%EC%A6%9D%EA%B3%BC%EC%9D%B8%EA%B0%80.md)
-
+- [@Transactional](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Backend/transactional.md)
 
 
 <br/>
