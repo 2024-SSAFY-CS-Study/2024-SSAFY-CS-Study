@@ -21,7 +21,7 @@
 
 ## 사용법 
 <b>객체 생성</b> 
-![alt text](image-1.png)
+![alt text](res/promise-1.png)
 promise 객체의 첫번째 인수는 작업이 성공했을 때 성공을 알려주는 객체 
 두번째는 작업이 실패했을 때 실패를 알려주는 객체 
 
