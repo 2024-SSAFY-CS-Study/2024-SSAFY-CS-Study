@@ -74,3 +74,8 @@
 - [OSI 7 Layer](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/OSI%207%20LAYER.md)
 
 <br/>
+📌 etc
+
+- [API&Framework&Library](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/etc/API%26Framework%26Library.md)
+- [git_merge_rebase_cherry-pick](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/etc/git_merge_rebase_cherry-pick.md)
+- [git_브랜치전략](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/etc/git_%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%A0%84%EB%9E%B5.md)
