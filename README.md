@@ -72,6 +72,8 @@
 
 - [Forward Proxy, Reverse Proxy, Load Balancer](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/Proxy.md)
 - [OSI 7 Layer](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/OSI%207%20LAYER.md)
+- [TCP/IP](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/TCP_IP.md)
+- [TLS](https://github.com/2024-SSAFY-CS-Study/2024-SSAFY-CS-Study/blob/main/Network/TLS.md)
 
 <br/>
 📌 etc
